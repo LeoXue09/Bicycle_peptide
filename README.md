@@ -7,8 +7,8 @@ The toolkit covers target preparation, backbone generation, cysteine geometry, P
 ## Install and run the demo
 
 ```bash
-git clone https://github.com/LeoXue09/Baidu-Bicycle.git
-cd Baidu-Bicycle
+git clone https://github.com/LeoXue09/Bicycle_peptide.git
+cd Bicycle_peptide
 python3 -m venv .venv
 .venv/bin/python -m pip install -e '.[structure]'
 .venv/bin/python -m unittest discover -s tests -v
