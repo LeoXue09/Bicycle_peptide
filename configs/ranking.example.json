@@ -1,0 +1,25 @@
+{
+  "interface_column": "3-1_interface_residues",
+  "mapping_verified": false,
+  "hotspots": [
+    341,
+    342,
+    343,
+    344,
+    345,
+    346,
+    347,
+    348,
+    349,
+    350,
+    351,
+    352,
+    353
+  ],
+  "residue_map": null,
+  "plddt_quantile": 0.98,
+  "iptm_quantile": 0.98,
+  "hotspot_fraction": 0.2,
+  "contact_threshold_angstrom": 8.0,
+  "population": "One explicitly defined target and sequence-design branch"
+}

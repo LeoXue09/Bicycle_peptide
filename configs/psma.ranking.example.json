@@ -1,0 +1,20 @@
+{
+  "interface_column": "target_interface_residues",
+  "mapping_verified": false,
+  "hotspots": [
+    517,
+    519,
+    534,
+    536,
+    545,
+    546,
+    552,
+    553
+  ],
+  "residue_map": null,
+  "plddt_quantile": 0.98,
+  "iptm_quantile": 0.98,
+  "hotspot_fraction": 0.2,
+  "contact_threshold_angstrom": 8.0,
+  "population": "PSMA prediction population selected for this experiment"
+}

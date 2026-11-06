@@ -1,0 +1,20 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "baidu-bicycle"
+version = "0.1.0"
+description = "RFdiffusion-based bicyclic peptide design workflow for PSMA and FAP"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+structure = ["biopython>=1.81,<2"]
+
+[project.scripts]
+bicycle = "baidu_bicycle.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]

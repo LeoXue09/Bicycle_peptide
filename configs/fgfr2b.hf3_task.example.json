@@ -1,0 +1,21 @@
+{
+  "name": "example_not_a_candidate",
+  "peptide": "CAAAAACAAAAAC",
+  "target": "AAAA",
+  "positions": [
+    1,
+    7,
+    13
+  ],
+  "linker": {
+    "ccd": "LFI",
+    "reactive_atoms": [
+      "C11",
+      "C10",
+      "C12"
+    ],
+    "chemistry_verified": false
+  },
+  "head_to_tail": false,
+  "allow_extra_cys": false
+}

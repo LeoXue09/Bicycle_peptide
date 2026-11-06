@@ -1,0 +1,29 @@
+{
+  "target": "psma",
+  "target_pdb": "/absolute/path/psma/target.pdb",
+  "peptide_length": 10,
+  "triangle_positions_0based": [
+    1,
+    4,
+    7
+  ],
+  "guide_scale": 2.0,
+  "k_dist": 5.0,
+  "potential_version": "bicycle_triangle_v1",
+  "num_designs": 1,
+  "design_startnum": 0,
+  "target_contig": "A55-653/A656-750",
+  "hotspots": [
+    "A517",
+    "A519",
+    "A534",
+    "A536",
+    "A545",
+    "A546",
+    "A552",
+    "A553"
+  ],
+  "guide_decay": "quadratic",
+  "diffusion_steps": 50,
+  "description": "Starter configuration; set experiment-specific parameters before execution"
+}

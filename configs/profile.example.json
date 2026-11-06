@@ -1,0 +1,13 @@
+{
+  "rfdiffusion_root": "/absolute/path/rfdiffusion_root",
+  "rfdiffusion_python": "/absolute/path/rfdiffusion_python",
+  "rfdiffusion_checkpoint": "/absolute/path/rfdiffusion_checkpoint",
+  "proteinmpnn_root": "/absolute/path/proteinmpnn_root",
+  "proteinmpnn_python": "/absolute/path/proteinmpnn_python",
+  "proteinmpnn_weights": "/absolute/path/proteinmpnn_weights",
+  "proteinmpnn_model": "v_48_020",
+  "composer_root": "/absolute/path/composer_root",
+  "composer_python": "/absolute/path/composer_python",
+  "composer_checkpoint": "/absolute/path/composer_checkpoint",
+  "helixfold3_root": "/absolute/path/helixfold3_root"
+}

@@ -1,0 +1,32 @@
+{
+  "target": "fap",
+  "target_pdb": "/absolute/path/fap/target.pdb",
+  "peptide_length": 10,
+  "triangle_positions_0based": [
+    1,
+    4,
+    7
+  ],
+  "guide_scale": 2.0,
+  "k_dist": 5.0,
+  "potential_version": "bicycle_triangle_v1",
+  "num_designs": 1,
+  "design_startnum": 0,
+  "target_contig": "A37-757",
+  "hotspots": [
+    "A123",
+    "A203",
+    "A204",
+    "A624",
+    "A625",
+    "A650",
+    "A656",
+    "A660",
+    "A704",
+    "A705",
+    "A734"
+  ],
+  "guide_decay": "quadratic",
+  "diffusion_steps": 50,
+  "description": "Starter configuration; set experiment-specific parameters before execution"
+}

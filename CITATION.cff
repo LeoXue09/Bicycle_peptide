@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this software release and the original model publications used in your work."
+title: "Baidu Bicycle: a framework for geometrically constrained bicyclic peptide design"
+type: software
+version: 0.1.0
+date-released: 2026-11-06
+authors:
+  - name: "Baidu Bicycle contributors"
+license: MIT
+repository-code: "https://github.com/LeoXue09/Baidu-Bicycle"
+url: "https://github.com/LeoXue09/Baidu-Bicycle"

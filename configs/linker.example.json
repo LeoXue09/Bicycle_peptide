@@ -1,0 +1,9 @@
+{
+  "ccd": "SET_LINKER_CCD",
+  "reactive_atoms": [
+    "SET_ATOM_1",
+    "SET_ATOM_2",
+    "SET_ATOM_3"
+  ],
+  "chemistry_verified": false
+}

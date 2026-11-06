@@ -1,0 +1,23 @@
+{
+  "peptide_length": 15,
+  "triangle_positions_0based": [
+    1,
+    6,
+    11
+  ],
+  "guide_scale": 2.0,
+  "k_dist": 5.0,
+  "potential_version": "bicycle_triangle_v1",
+  "target_pdb": "/absolute/path/prepared/target.pdb",
+  "num_designs": 1,
+  "design_startnum": 0,
+  "target_contig": "B208-359",
+  "hotspots": [
+    "B341",
+    "B342",
+    "B343"
+  ],
+  "guide_decay": "quadratic",
+  "diffusion_steps": 50,
+  "description": "FGFR2b-style starter configuration for a new experiment"
+}

@@ -1,0 +1,24 @@
+{
+  "input_schema": "bicycle-helm-covalent-v1",
+  "argv": [
+    "/absolute/path/backend/python",
+    "/absolute/path/backend/run_covalent.py",
+    "--input",
+    "{input_json}",
+    "--output",
+    "{output_dir}"
+  ],
+  "cwd": "/absolute/path/backend",
+  "gpu_required": true,
+  "expected_files": [
+    "predicted_structure.cif",
+    "metrics.json"
+  ],
+  "engine_roots": [
+    "/absolute/path/backend"
+  ],
+  "input_files": [
+    "/absolute/path/model/checkpoint"
+  ],
+  "env": {}
+}

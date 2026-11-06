@@ -1,0 +1,22 @@
+{
+  "rfdiffusion": {
+    "url": "https://github.com/RosettaCommons/RFdiffusion.git",
+    "commit": "9535f1938203a24937d7dadf0cb831d02cb5fc0e",
+    "source_only": true
+  },
+  "proteinmpnn": {
+    "url": "https://github.com/dauparas/ProteinMPNN.git",
+    "commit": "8907e6671bfbfc92303b5f79c4b5e6ce47cdef57",
+    "source_only": true
+  },
+  "cp_composer": {
+    "url": "https://github.com/jdp22/CP-Composer_final.git",
+    "commit": "ee78da6c3249351476e5ba30536aea75073db254",
+    "source_only": true
+  },
+  "helixfold3": {
+    "url": "https://github.com/PaddlePaddle/PaddleHelix.git",
+    "commit": "8e3991ab1209134b148b05d44e784a43eaa4484d",
+    "source_only": true
+  }
+}

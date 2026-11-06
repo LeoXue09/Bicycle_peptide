@@ -1,0 +1,8 @@
+{
+  "original_filename": "potentials.py",
+  "sha256": "54330e5c61fea34cc2958fc760a7c13654a39693a13c9bcf441317e96e62707f",
+  "custom_class": "bicycle_triangle_constraint",
+  "class_line": 457,
+  "execution": "reference only; corrected potential uses bicycle_triangle_v1",
+  "original_target": "FGFR2b"
+}
